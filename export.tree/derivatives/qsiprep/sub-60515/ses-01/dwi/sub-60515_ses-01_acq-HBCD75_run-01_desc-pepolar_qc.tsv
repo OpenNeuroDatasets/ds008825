@@ -1,0 +1,23 @@
+bids_origin_file	original_volume	fsl_spec	qc_score	qc_rank	selected_for_sdc
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	0	0 1 0 0.091736	-0.9885519865114313	5	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	1	0 1 0 0.091736	-0.9892098191179203	2	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	2	0 1 0 0.091736	-0.9896542452612371	1	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	3	0 1 0 0.091736	-0.9890903116898384	4	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	4	0 1 0 0.091736	-0.9884700536344203	6	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	5	0 1 0 0.091736	-0.9891466784102321	3	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	18	0 1 0 0.091736	-0.9897196616270912	0	True
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	32	0 1 0 0.091736	-0.98676588622488	7	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	46	0 1 0 0.091736	-0.9866154794928391	8	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	60	0 1 0 0.091736	-0.9777980039604491	10	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-PA_run-01_part-mag_dwi.nii.gz	74	0 1 0 0.091736	-0.9849477891991182	9	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	0	0 -1 0 0.091736	-0.9919657983630563	2	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	1	0 -1 0 0.091736	-0.991882986941158	3	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	2	0 -1 0 0.091736	-0.9914215337722607	5	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	3	0 -1 0 0.091736	-0.9903525296839067	7	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	4	0 -1 0 0.091736	-0.9907913045907426	6	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	5	0 -1 0 0.091736	-0.9924086646719184	0	True
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	18	0 -1 0 0.091736	-0.9920701914855996	1	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	32	0 -1 0 0.091736	-0.9916070486382657	4	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	46	0 -1 0 0.091736	-0.9899203503332533	9	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	60	0 -1 0 0.091736	-0.9887642103551931	10	False
+/data/sub-60515/ses-01/dwi/sub-60515_ses-01_acq-HBCD75_rec-norm_dir-AP_run-01_part-mag_dwi.nii.gz	74	0 -1 0 0.091736	-0.9902599851904913	8	False
