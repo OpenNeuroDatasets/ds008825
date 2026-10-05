@@ -1,0 +1,5 @@
+# Myelin Imaging Reliability and ReprOducibility Resource (MIRROR)
+
+MIRROR is a multimodal test-retest MRI dataset of diffusion MRI (dMRI), inhomogeneous magnetization transfer imaging (ihMT), quantitative susceptibility mapping (QSM), MP2RAGE, T1w/T2w ratio mapping, and transverse relaxometry in 22 healthy adults.
+
+This dataset include derivatives from each of several pipelines used to process individual modalities.
