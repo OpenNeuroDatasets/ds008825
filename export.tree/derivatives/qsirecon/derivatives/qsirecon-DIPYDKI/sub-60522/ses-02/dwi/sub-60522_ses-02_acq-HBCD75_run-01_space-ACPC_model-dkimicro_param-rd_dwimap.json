@@ -1,0 +1,9 @@
+{
+  "Description": "DKI Microstructural Radial Diffusivity",
+  "Model": {
+    "Description": "Diffusion Kurtosis Microstructural Imaging (DKI-MICRO)",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/34349631/"
+  },
+  "ParameterURL": "https://pubmed.ncbi.nlm.nih.gov/21699989/",
+  "Units": "mm^2/s"
+}
