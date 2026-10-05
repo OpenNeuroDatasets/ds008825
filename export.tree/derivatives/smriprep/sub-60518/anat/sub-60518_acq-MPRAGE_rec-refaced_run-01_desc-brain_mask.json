@@ -1,0 +1,7 @@
+{
+  "RawSources": [
+    "/data/sub-60518/ses-01/anat/sub-60518_ses-01_acq-MPRAGE_rec-refaced_run-01_T1w.nii.gz",
+    "/data/sub-60518/ses-02/anat/sub-60518_ses-02_acq-MPRAGE_rec-refaced_run-01_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}

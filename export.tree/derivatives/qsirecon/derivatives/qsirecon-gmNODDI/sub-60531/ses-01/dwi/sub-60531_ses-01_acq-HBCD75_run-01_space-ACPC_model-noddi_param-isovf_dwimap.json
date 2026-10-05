@@ -1,0 +1,19 @@
+{
+  "Description": "Isotropic volume fraction (Freewater Fraction; FWF) from AMICO NODDI",
+  "Model": {
+    "Description": "Neurite Orientation Dispersion and Density Imaging (NODDI)",
+    "Parameters": {
+      "IsotropicDiffusivity": 0.003,
+      "ParallelDiffusivity": 0.0011,
+      "b0_threshold": 50.0,
+      "doNormalize": true,
+      "fitMethod": "OLS",
+      "isExvivo": false,
+      "nrmse": true,
+      "rmse": true,
+      "saveModulatedMaps": true
+    },
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/25462697"
+  },
+  "ParameterURL": "https://pubmed.ncbi.nlm.nih.gov/22484410"
+}
