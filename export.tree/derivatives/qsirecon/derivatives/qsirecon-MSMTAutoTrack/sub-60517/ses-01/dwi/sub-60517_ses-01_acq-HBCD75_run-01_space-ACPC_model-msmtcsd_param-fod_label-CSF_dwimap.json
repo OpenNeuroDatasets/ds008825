@@ -1,0 +1,36 @@
+{
+  "Description": "Cerebrospinal fluid",
+  "Model": {
+    "Description": "Multi-Shell Multi-Tissue (MSMT) Constrained Spherical Deconvolution (CSD)",
+    "URL": "https://mrtrix.readthedocs.io/en/latest/constrained_spherical_deconvolution/multi_shell_multi_tissue_csd.html"
+  },
+  "NonNegativity": "constrained",
+  "OrientationEncoding": {
+    "EncodingAxis": 3,
+    "Reference": "xyz",
+    "SphericalHarmonicBasis": "mrtrix3",
+    "SphericalHarmonicDegree": 0,
+    "Type": "sh"
+  },
+  "ParameterURL": "http://www.sciencedirect.com/science/article/pii/S1053811911012092",
+  "ResponseFunction": {
+    "Coefficients": [
+      [
+        62543.3418294997
+      ],
+      [
+        10992.540413387
+      ],
+      [
+        2551.32833575618
+      ],
+      [
+        803.557345817444
+      ],
+      [
+        719.312913120702
+      ]
+    ],
+    "Type": "zsh"
+  }
+}
