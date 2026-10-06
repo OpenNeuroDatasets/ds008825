@@ -1,8 +1,0 @@
-{
-  "Description": "DKI mean kurtosis",
-  "Model": {
-    "Description": "Diffusion Kurtosis Imaging (DKI)",
-    "URL": "https://pubmed.ncbi.nlm.nih.gov/34349631/"
-  },
-  "ParameterURL": "https://pubmed.ncbi.nlm.nih.gov/21337412/"
-}
