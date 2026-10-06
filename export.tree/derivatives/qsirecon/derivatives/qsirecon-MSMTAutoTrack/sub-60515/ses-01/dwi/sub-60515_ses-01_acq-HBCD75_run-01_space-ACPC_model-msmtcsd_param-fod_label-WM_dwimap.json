@@ -1,0 +1,65 @@
+{
+  "Description": "White matter",
+  "Model": {
+    "Description": "Multi-Shell Multi-Tissue (MSMT) Constrained Spherical Deconvolution (CSD)",
+    "URL": "https://mrtrix.readthedocs.io/en/latest/constrained_spherical_deconvolution/multi_shell_multi_tissue_csd.html"
+  },
+  "NonNegativity": "constrained",
+  "OrientationEncoding": {
+    "EncodingAxis": 3,
+    "Reference": "xyz",
+    "SphericalHarmonicBasis": "mrtrix3",
+    "SphericalHarmonicDegree": [
+      8,
+      8,
+      8
+    ],
+    "Type": "sh"
+  },
+  "ParameterURL": "http://www.sciencedirect.com/science/article/pii/S1053811911012092",
+  "ResponseFunction": {
+    "Coefficients": [
+      [
+        18846.1795633148,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        13346.5127886295,
+        -3156.42239123244,
+        502.850392612785,
+        -158.822954119311,
+        76.4097033063521,
+        -108.314034552427
+      ],
+      [
+        10115.7712755893,
+        -4081.83307842345,
+        854.359241692738,
+        -122.107967879364,
+        7.2389468640048,
+        39.5379216910506
+      ],
+      [
+        6977.71700446859,
+        -4076.02211297061,
+        1491.49824542224,
+        -356.052717853552,
+        82.9036029800701,
+        -36.7175749752498
+      ],
+      [
+        5508.62935214421,
+        -3580.25672228263,
+        1717.6949198608,
+        -592.128031127945,
+        162.208316596369,
+        -34.9099902450668
+      ]
+    ],
+    "Type": "zsh"
+  }
+}
