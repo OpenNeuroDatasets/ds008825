@@ -1,0 +1,4 @@
+{
+  "Description": "Mean Diffusivity from a tensor fit. The mean of the three eigenvalues.",
+  "Units": "\u03bcm^2/ms"
+}
