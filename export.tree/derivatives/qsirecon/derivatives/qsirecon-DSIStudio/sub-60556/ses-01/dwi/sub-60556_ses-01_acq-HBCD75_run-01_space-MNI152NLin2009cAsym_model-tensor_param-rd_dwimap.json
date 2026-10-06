@@ -1,0 +1,4 @@
+{
+  "Description": "Radial Diffusivity from a tensor fit. The mean of the second and third eigenvalues (rd1 and rd2).",
+  "Units": "\u03bcm^2/ms"
+}

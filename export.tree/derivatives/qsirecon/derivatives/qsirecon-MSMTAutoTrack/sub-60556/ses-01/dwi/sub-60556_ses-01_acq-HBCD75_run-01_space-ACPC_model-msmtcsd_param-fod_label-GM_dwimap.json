@@ -1,0 +1,36 @@
+{
+  "Description": "Gray matter",
+  "Model": {
+    "Description": "Multi-Shell Multi-Tissue (MSMT) Constrained Spherical Deconvolution (CSD)",
+    "URL": "https://mrtrix.readthedocs.io/en/latest/constrained_spherical_deconvolution/multi_shell_multi_tissue_csd.html"
+  },
+  "NonNegativity": "constrained",
+  "OrientationEncoding": {
+    "EncodingAxis": 3,
+    "Reference": "xyz",
+    "SphericalHarmonicBasis": "mrtrix3",
+    "SphericalHarmonicDegree": 0,
+    "Type": "sh"
+  },
+  "ParameterURL": "http://www.sciencedirect.com/science/article/pii/S1053811911012092",
+  "ResponseFunction": {
+    "Coefficients": [
+      [
+        25981.9971488259
+      ],
+      [
+        16727.7788091263
+      ],
+      [
+        11531.0024318609
+      ],
+      [
+        6059.08127354295
+      ],
+      [
+        3528.84011533406
+      ]
+    ],
+    "Type": "zsh"
+  }
+}
