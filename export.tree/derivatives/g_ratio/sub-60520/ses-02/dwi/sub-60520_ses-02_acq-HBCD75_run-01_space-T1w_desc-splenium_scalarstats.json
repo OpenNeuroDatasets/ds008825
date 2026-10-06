@@ -1,0 +1,22 @@
+{
+    "Description": "Mean scalar values in the FreeSurfer splenium label for g-ratio scaling.",
+    "Region": {
+        "FreeSurferAsegLabel": 251,
+        "Name": "Splenium of corpus callosum"
+    },
+    "Sources": {
+        "icvf_acpc": "/cbica/projects/nibs/derivatives/qsirecon/derivatives/qsirecon-NODDI/sub-60520/ses-02/dwi/sub-60520_ses-02_acq-HBCD75_run-01_space-ACPC_model-noddi_param-icvf_dwimap.nii.gz",
+        "ihMTR_t1w": "/cbica/projects/nibs/derivatives/ihmt/sub-60520/ses-02/anat/sub-60520_ses-02_run-01_space-T1w_ihMTR.nii.gz",
+        "ihMTsatB1sq_t1w": "/cbica/projects/nibs/derivatives/ihmt/sub-60520/ses-02/anat/sub-60520_ses-02_run-01_space-T1w_ihMTsatB1sq.nii.gz",
+        "isovf_acpc": "/cbica/projects/nibs/derivatives/qsirecon/derivatives/qsirecon-NODDI/sub-60520/ses-02/dwi/sub-60520_ses-02_acq-HBCD75_run-01_space-ACPC_model-noddi_param-isovf_dwimap.nii.gz"
+    },
+    "SpleniumValues": {
+        "ICVF": 0.6254613399505615,
+        "ISOVF": 0.16617700457572937,
+        "ihMTR": 0.1599361151456833,
+        "ihMTsatB1sq": 3.5113980770111084
+    },
+    "run": 1,
+    "session_id": "02",
+    "subject_id": "60520"
+}

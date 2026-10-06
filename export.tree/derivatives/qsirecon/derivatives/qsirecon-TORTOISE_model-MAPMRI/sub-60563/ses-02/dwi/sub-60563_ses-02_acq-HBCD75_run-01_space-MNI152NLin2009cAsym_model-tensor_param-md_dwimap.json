@@ -1,0 +1,6 @@
+{
+  "Description": "Mean Diffusivity from a tensor fit",
+  "Model": {
+    "Description": "Custom Python code implementing the formula (ad + (2 * rd)) / 3"
+  }
+}
